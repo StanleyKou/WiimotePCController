@@ -1,0 +1,7 @@
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteDevice\bin\Debug\WiimoteDevice.dll
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteDevice\bin\Debug\WiimoteDevice.pdb
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteDevice\bin\Debug\WiimoteLib.dll
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteDevice\bin\Debug\WiimoteLib.pdb
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteDevice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteDevice\obj\Debug\WiimoteDevice.dll
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteDevice\obj\Debug\WiimoteDevice.pdb

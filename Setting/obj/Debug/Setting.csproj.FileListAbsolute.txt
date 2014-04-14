@@ -1,0 +1,5 @@
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\Setting\bin\Debug\Setting.dll
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\Setting\bin\Debug\Setting.pdb
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\Setting\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\Setting\obj\Debug\Setting.dll
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\Setting\obj\Debug\Setting.pdb

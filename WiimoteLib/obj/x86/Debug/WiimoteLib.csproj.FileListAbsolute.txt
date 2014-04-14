@@ -1,0 +1,15 @@
+E:\Development\WiimotePCController\WiimotePCController\WiimoteLib\bin\x86\Debug\WiimoteLib.dll
+E:\Development\WiimotePCController\WiimotePCController\WiimoteLib\bin\x86\Debug\WiimoteLib.pdb
+E:\Development\WiimotePCController\WiimotePCController\WiimoteLib\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\WiimotePCController\WiimotePCController\WiimoteLib\obj\x86\Debug\WiimoteLib.dll
+E:\Development\WiimotePCController\WiimotePCController\WiimoteLib\obj\x86\Debug\WiimoteLib.pdb
+E:\Development\WiimotePCController\WiimoteLib\bin\x86\Debug\WiimoteLib.dll
+E:\Development\WiimotePCController\WiimoteLib\bin\x86\Debug\WiimoteLib.pdb
+E:\Development\WiimotePCController\WiimoteLib\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\WiimotePCController\WiimoteLib\obj\x86\Debug\WiimoteLib.dll
+E:\Development\WiimotePCController\WiimoteLib\obj\x86\Debug\WiimoteLib.pdb
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteLib\bin\x86\Debug\WiimoteLib.dll
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteLib\bin\x86\Debug\WiimoteLib.pdb
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteLib\obj\x86\Debug\WiimoteLib.dll
+C:\Users\oki\Documents\Visual Studio 2010\Projects\WiimotePCController_src\WiimoteLib\obj\x86\Debug\WiimoteLib.pdb
